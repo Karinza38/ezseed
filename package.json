@@ -29,7 +29,7 @@
   "homepage": "https://github.com/ezseed/ezseed",
   "dependencies": {
     "ansi-rainbow": "0.0.8",
-    "archiver": "^0.14.4",
+    "archiver": "^0.21.0",
     "async": "^1.4.0",
     "bluebird": "^2.9.34",
     "body-parser": "^1.13.2",
